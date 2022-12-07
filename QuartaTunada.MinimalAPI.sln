@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuartaTunada.MinimalApi", "QuartaTunada.MinimalAPI\QuartaTunada.MinimalApi.csproj", "{DAFA17D6-68EB-4303-BB3D-275301F26997}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuartaTunada.MinimalApi.Sql", "QuartaTunada.MinimalApi.Sql\QuartaTunada.MinimalApi.Sql.csproj", "{ADA4377F-B0DD-4A8C-A2B4-1DE2CD907ADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAFA17D6-68EB-4303-BB3D-275301F26997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFA17D6-68EB-4303-BB3D-275301F26997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFA17D6-68EB-4303-BB3D-275301F26997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFA17D6-68EB-4303-BB3D-275301F26997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADA4377F-B0DD-4A8C-A2B4-1DE2CD907ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA4377F-B0DD-4A8C-A2B4-1DE2CD907ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA4377F-B0DD-4A8C-A2B4-1DE2CD907ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA4377F-B0DD-4A8C-A2B4-1DE2CD907ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3E81A4E-C62D-40D2-8004-121A91E431C9}
+	EndGlobalSection
+EndGlobal
